@@ -1,3 +1,5 @@
+Include majority of class works and assessments from Chegg Backend Certificate course
+
 # Starter Code: Robust Server Structure
 
 This server is intended to be run for some checkpoints in the Thinkful curriculum. If you have trouble getting the server to run, reach out for assistance.
