@@ -68,5 +68,5 @@ module.exports = {
   list,
   read: [useExists, read],
 //   update: [useExists, hasText, update],
-  delete: destroy,
+  delete: [useExists, destroy],
 };
